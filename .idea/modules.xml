@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blockingpromise.iml" filepath="$PROJECT_DIR$/.idea/modules/blockingpromise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blockingpromise_main.iml" filepath="$PROJECT_DIR$/.idea/modules/blockingpromise_main.iml" group="blockingpromise" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blockingpromise_test.iml" filepath="$PROJECT_DIR$/.idea/modules/blockingpromise_test.iml" group="blockingpromise" />
+    </modules>
+  </component>
+</project>
